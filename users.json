@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "name": "rewrte",
+    "password": "$2y$10$R5JPDMC0/b0felehBYJbIOXl5Xou3345Pgjq/Q1i0wSgZDsHZhU2q",
+    "email": "buidinhhieu9b@gmail.com",
+    "phone_number": 383853356
+  },
+  {
+    "id": "2",
+    "name": "Bùi Đình Hiếu",
+    "password": "$2y$10$d03W2P7m0gNaLztOdrYFE.bWr9JX9RFOH6Vlj06nF9eMsDD9yD8Nm",
+    "email": "dhieu9b@gmail.com",
+    "phone_number": 383853356
+  }
+]
